@@ -1,1 +1,2 @@
 # odin-recipes
+The purpose of this project is to use the skills I have learned thus far in The Odin Project Foundations path. In this project, I will use the aquired skills to build a basic website with links to a few recipe pages.
